@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 This is how you contribute
+
+##Staging area
+
+##Working directory
