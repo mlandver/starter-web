@@ -12,4 +12,6 @@ This is how you contribute
 
 ##Staging area
 
+changing readme
+
 ##Working directory
